@@ -1,0 +1,3 @@
+/mnt/c/Users/Mark/pico/four_motor_drive/build/pioasm/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Mark/pico/four_motor_drive/build/pioasm/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Mark/pico/four_motor_drive/build/pioasm/CMakeFiles/pioasm.dir
