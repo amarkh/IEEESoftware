@@ -7,7 +7,7 @@ import cv2
 import numpy as np 
   
 # Read the images 
-img = cv2.imread("Resources/shapes.jpg") 
+img = cv2.imread("Resources/green.jpg") 
   
 # Resizing the image 
 image = cv2.resize(img, (700, 600)) 

@@ -5,7 +5,7 @@ def nothing(x):
     pass
 
 # Load image
-img = cv2.imread("Resources/thrust.jpg") 
+img = cv2.imread("Resources/blue.jpg") 
 
 # Resizing the image 
 image = cv2.resize(img, (700, 600)) 
