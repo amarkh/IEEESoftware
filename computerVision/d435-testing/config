@@ -1,5 +1,5 @@
-thresh_lower: np.array([0, 0, 200]) # lower
-thresh_upper: np.array([255,55, 255]) # upper
+thresh_lower: np.array([60, 125, 100]) # lower 0, 0, 200
+thresh_upper: np.array([80, 255, 255]) # upper 255, 55, 255
 kernel: np.ones((3,3), np.uint8)
 skel_kernel: np.ones((1,1), np.uint8)
 threshold: 100
